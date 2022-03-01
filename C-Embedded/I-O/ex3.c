@@ -1,9 +1,9 @@
 /**********/
 /*               Lab 3 - Basic debug introduction using IAR               */
 /*Group #7                                                                */
-/*Ron ben david,                                   */
-/*Yohav itzhak,                                            */
-/*Ben Reuven,                                           */
+/*Ron ben david,                                                          */
+/*Yohav itzhak,                                                           */
+/*Ben Reuven,                                                             */
 /* MSP430 Teaching ROM                                                    */
 /*                                                                        */
 /*                                                                        */
