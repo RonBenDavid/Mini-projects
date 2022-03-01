@@ -1,6 +1,6 @@
 /*
 Assigned by:
-Ron ben david #307906263
+Ron ben david
 */
 #ifndef store
 #include <stdio.h>
