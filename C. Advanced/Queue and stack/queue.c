@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_DEPRECATE
 /*
 Assigned by:
-Ron ben david #307906263
+Ron ben david
 */
 // C program for array implementation of queue 
 #include <limits.h> 
