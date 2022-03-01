@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RonBenDavid
+- 👀 I’m interested in electrical engineering
+- 🌱 I’m currently learning electrical engineering at the 4th year
+- 📫 How to reach me: ronbd2@gmail.com
