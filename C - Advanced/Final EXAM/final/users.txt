@@ -1,0 +1,4 @@
+username        password        L fullname            
+admin           admin           3 System Manager      
+ronbd2          123456789       2 Ron ben david       
+RonRon2         benben          1 Shmuel mauda        
