@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_DEPRECATE
 /*
 Assigned by:
-Ron ben david #307906263
+Ron ben david
 */
 #include <stdio.h>
 #include <math.h>
