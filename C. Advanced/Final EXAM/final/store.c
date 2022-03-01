@@ -2,7 +2,7 @@
 #include "store.h"
 /*
 Assigned by:
-Ron ben david #307906263
+Ron ben david
 */
 void menu(char* userpath,char* itemspath) {
 	FILE* fp;
