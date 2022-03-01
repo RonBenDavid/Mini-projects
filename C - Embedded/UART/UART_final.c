@@ -25,9 +25,9 @@
 /*                                        Copyright by Texas Instruments  */
 /**************************/
 /*Group #7                                                                */
-/*Ron ben david, ID:307906263                                             */
-/*Yohav itzhak,  ID:305126823                                             */
-/*Ben Reuven,    ID:206339962  */
+/*Ron ben david                                        */
+/*Yohav itzhak                                          */
+/*Ben Reuven  */
 #include <msp430xG46x.h>
   
 void UARTSetup(void)

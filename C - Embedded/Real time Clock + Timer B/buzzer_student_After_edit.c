@@ -11,9 +11,9 @@
 #define SI 		7963
 #define DO2 	7629
 #define MUTE 	0
-/*Ron ben david, ID:307906263                                             */
-/*Yohav itzhak,  ID:305126823                                             */
-/*Ben Reuven,    ID:206339962                                             */
+/*Ron ben david                                          */
+/*Yohav itzhak                                    */
+/*Ben Reuven                                             */
 //**********************
 // Global data
 //**********************
