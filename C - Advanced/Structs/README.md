@@ -1,0 +1,13 @@
+1. Write a program that calculates the average scores of students according to all their scores, calculates the average of the average of all students (total average), and classifies all students into two groups: with an average score above (or equal to) an overall average and with an average score below average. including. The program will print in detail the results of the classification and the overall average itself.
+Three new struct types must be defined in the program:
+• The student_init_data structure. The structure will contain the following fields: Student ID number, indicates a dynamic set of the student's test scores, the number of tests.
+The student_processed_data structure. The structure will contain the following fields: Student ID number and average grade of the student (actual number).
+• Structure statistics. The structure will contain the following fields: two pointers for the student_processed_data type (for assigning two dynamic arrays to students of both groups), two integers (array sizes) and an actual number (the total average).
+A static array of student_init_data structures must be declared at the beginning of the program and the fields representing ID number and the number of tests per student must be received.
+ The program should include:
+• Input_Data function called input input for each student and creates a dynamic array of student grades. The function receives the number of tests of the student, receives the student's grades, and returns the address of the set of grades.
+• Student_Average function that receives the set of grades for each student, calculates the average of the grades, and returns its value. A value returned by the function must be stored in an auxiliary dynamic array of averages (real numbers).
+• Total_Average function that receives an average set of all students, calculates the total average, and returns its value.
+• Classification function which receives the original array of student_init_data structures and creates on its basis the two dynamic arrays of student_processed_data structures that represent the two groups of students. The function puts the addresses of the arrays, their sizes, and the total mean of an object of the type of statistics which it passes by reference. The function must use Student_Average and Total_Average as auxiliary functions.
+• Print_Tab function that prints all the contents of an object with statistics type.
+• Free_Memory function that frees up all the allocated memory in the program.
