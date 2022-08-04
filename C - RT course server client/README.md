@@ -34,24 +34,40 @@ To run:
 
 API LIST:
 *(argc, argv)
-*null terminated strings, fot example: strcat(3), strstr(3), strchar(3), strtok(3) etc.
-*FILE API (fread, fwrite, fopen etc.)
-*read וwrite.
-*IPv4.
-*IPv6.
-*Stream sockets 
-*Datagram sockets 
-*IP multiplexing - select
-*poll 
-*fork(2), wait(2)
-*Pthereds -lpthread
-*SIGNALS
-*MATH LIBERY USING LINK -lm.
 
+*null terminated strings, fot example: strcat(3), strstr(3), strchar(3), strtok(3) etc.
+
+*FILE API (fread, fwrite, fopen etc.)
+
+*read וwrite.
+
+*IPv4.
+
+*IPv6.
+
+*Stream sockets 
+
+*Datagram sockets 
+
+*IP multiplexing - select
+
+*poll 
+
+*fork(2), wait(2)
+
+*Pthereds -lpthread
+
+*SIGNALS
+
+*MATH LIBERY USING LINK -lm.
 
 Extras not listed in the requirements:
 
+
 *TIME
+
 *GPS
+
 *LED
+
 *TELEGRAM
